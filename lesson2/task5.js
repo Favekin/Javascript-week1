@@ -1,0 +1,8 @@
+const number = 12;
+
+// Use the ternary operator to check the condition
+const message = (number > 10) 
+  ? "The number is greater than 10." 
+  : "The number is less than or equal to 10.";
+
+console.log(message);
